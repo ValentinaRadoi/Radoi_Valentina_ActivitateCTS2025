@@ -1,1 +1,1 @@
-# Radoi_Valentina_ActivitateCTS2025
+Activitatea din cadrul seminarului de Calitate si testare software 2025
